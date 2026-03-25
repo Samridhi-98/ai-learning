@@ -1,0 +1,14 @@
+.env
+.venv
+.talismanrc
+.idea
+chroma_db
+__pycache__
+venv
+rag_knowledge_base/.idea
+rag_knowledge_base/venv
+rag_knowledge_base/.vscode
+rag_knowledge_base/chroma_db
+llm-chat-bot/.idea
+llm-chat-bot/venv
+llm-chat-bot/.vscode
